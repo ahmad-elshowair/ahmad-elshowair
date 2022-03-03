@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ahmad-elshowair
+- I'm a Front-End developer
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any broject that catch my interesting 
