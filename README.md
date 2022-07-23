@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ahmad-elshowayer
 - I'm a Front-End developer
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any broject that catch my interesting 
-- 📫 How to reach me ? email me on ahmad.elshowair@outlook.com
+
+
 # MY SKILL SET
 
 <table><tr><td valign="top" width="33%">
@@ -31,6 +30,13 @@
 </td>
 </tr>
 </table>
+
+## Connect with me  
+<div align="center">
+<a href="https://www.linkedin.com/in/ahmad-elshowair/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
 <!---
 ahmad-elshowair/ahmad-elshowair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
