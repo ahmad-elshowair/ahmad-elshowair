@@ -30,7 +30,7 @@
 </div>
 </td>
 <td valign="top" width="33%">
-</tr></table>
+</table>
 <!---
 ahmad-elshowair/ahmad-elshowair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
