@@ -7,14 +7,13 @@
 # MY SKILL SET
 
  
-| FRONT END                                   | BACK END                                     |
-| ------------------------------------------- | -------------------------------------------- |
-| ![react](https://t.ly/7GTH, react)          | ![JavaScript](https://t.ly/EHxB, javascript) |
-| ![html5](https://t.ly/_03o, HTML5)          | ![TypeScript](https://t.ly/nL58, typescript) |
-| ![Bootsrap](https://t.ly/eUgN, Bootsrap)    | ![PostgrSQL](https://t.ly/6tCC, PostgrSQL)   |
-| ![CSS3](https://t.ly/LIQH, CSS3)            | ![node.js](https://t.ly/vaiW, node.js)       |
-| ![CSS3](https://t.ly/LIQH, CSS3)            |                                              |
-| ![jQuery](https://t.ly/cgBi, jQuery)        |                                              |
+|          FRONT END                                                                                           | BACK END                                     |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
+| ![react](https://cdn-icons-png.flaticon.com/512/3334/3334886.png)                                            | ![[JavaScript](https://cdn-icons- png.flaticon.com/128/5968/5968292.png)                                                                         |
+| ![html5](https://cdn-icons-png.flaticon.com/512/919/919827.png)                                              | ![TypeScript](https://t.ly/nL58, typescript) |
+| ![Bootsrap](https://cdn-icons-png.flaticon.com/128/5968/5968672.png)                                         | ![PostgrSQL]([https://t.ly/6tCC](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-128.png))                                 |
+| ![CSS3](https://cdn-icons-png.flaticon.com/128/919/919826.png)                                               | ![node.js](https://cdn-icons-png.flaticon.com/128/919/919825.png)                                                                           |
+| ![jQuery](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-128.png)|                                              |
 
 <!---
 ahmad-elshowair/ahmad-elshowair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
