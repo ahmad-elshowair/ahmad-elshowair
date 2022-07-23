@@ -6,14 +6,30 @@
 - 📫 How to reach me ? email me on ahmad.elshowair@outlook.com
 # MY SKILL SET
 
- 
-|          FRONT END                                                                                           | BACK END                                     |
-| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
-| ![react](https://cdn-icons-png.flaticon.com/512/3334/3334886.png)                                            | ![[JavaScript](https://cdn-icons- png.flaticon.com/128/5968/5968292.png)                                                                         |
-| ![html5](https://cdn-icons-png.flaticon.com/512/919/919827.png)                                              | ![TypeScript](https://t.ly/nL58, typescript) |
-| ![Bootsrap](https://cdn-icons-png.flaticon.com/128/5968/5968672.png)                                         | ![PostgrSQL]([https://t.ly/6tCC](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-128.png))                                 |
-| ![CSS3](https://cdn-icons-png.flaticon.com/128/919/919826.png)                                               | ![node.js](https://cdn-icons-png.flaticon.com/128/919/919825.png)                                                                           |
-| ![jQuery](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-128.png)|                                              |
+  
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />   
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">      
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">                                   |
 
 <!---
 ahmad-elshowair/ahmad-elshowair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
