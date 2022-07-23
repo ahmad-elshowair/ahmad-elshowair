@@ -7,7 +7,9 @@
 # MY SKILL SET
 
 <table><tr><td valign="top" width="33%">
-### Frontend  
+
+### Frontend
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -18,8 +20,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">      
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
@@ -29,7 +29,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 </div>
 </td>
-<td valign="top" width="33%">
+</tr>
 </table>
 <!---
 ahmad-elshowair/ahmad-elshowair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
