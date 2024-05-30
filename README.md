@@ -1,6 +1,36 @@
-- 👋 Hi, I’m @ahmad-elshowayer
-- I'm a Front-End developer
+- 👋 Hi, I’m @ahmad-elshowair
+- I'm a Web developer
 - 👀 I’m interested in web development
+
+I am a dedicated Full-Stack Developer with a strong educational background and hands-on experience in web development. I have completed several intensive programs, including:
+
+- **CS50: Introduction to Computer Science from Harvard University**
+- **Advanced Full-Stack Web Development Nanodegree**
+- **Front-End Web Development Professional Nanodegree**
+- **Responsive Web Design on FreeCodeCamp**
+
+These programs have equipped me with a robust set of skills, including:
+
+- **JavaScript**
+- **DOM Manipulation**
+- **Web APIs**
+- **Asynchronous Applications**
+- **Node.js**
+- **PostgreSQL**
+- **TypeScript**
+- **C Programming**
+- **Algorithms and Data Structures**
+- **HTML/CSS**
+- **Python**
+- **Flask**
+- **SQLite**
+
+I am currently focusing on the **PERN stack (PostgreSQL, Express.js, React, Node.js)** to enhance my full-stack development capabilities further.
+
+Throughout my journey, I have successfully developed several interesting projects, all available on my [GitHub profile](https://github.com/ahmad-elshowair).
+
+In my previous role, I actively contributed to the marketing team, where I played a key role in redesigning and redeveloping the organization’s website. This experience honed my skills in communication, teamwork, and web development.
+
 
 
 # MY SKILL SET
