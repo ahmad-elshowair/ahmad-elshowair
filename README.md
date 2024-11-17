@@ -12,15 +12,15 @@ I am a dedicated Full-Stack Developer with a strong educational background and h
 These programs have equipped me with a robust set of skills, including:
 
 - **JavaScript**
-- **DOM Manipulation**
-- **Web APIs**
-- **Asynchronous Applications**
+- **HTML/CSS**
+- **React**
+- **Nextjs**
 - **Node.js**
 - **PostgreSQL**
 - **TypeScript**
 - **C Programming**
 - **Algorithms and Data Structures**
-- **HTML/CSS**
+- **Web APIs**
 - **Python**
 - **Flask**
 - **SQLite**
@@ -54,7 +54,7 @@ In my previous role, I actively contributed to the marketing team, where I playe
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-        <img style="margin: 10px" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/jquery-128.png" alt="jQuery" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
       </div>
     </td>
     <td valign="top" width="33%">
