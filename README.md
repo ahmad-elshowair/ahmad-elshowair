@@ -1,35 +1,66 @@
-- 👋 Hi, I’m @ahmad-elshowair
-- I'm a Web developer
-- 👀 I’m interested in web development
+# Ahmad Elshowair - Full-Stack Developer
 
-I am a dedicated Full-Stack Developer with a strong educational background and hands-on experience in web development. I have completed several intensive programs, including:
+  👋 Hi there, I'm a passionate Full-Stack Developer with a strong computer science and web development foundation. My journey is marked by continuous learning and practical application of cutting-edge technologies.
 
-- **CS50: Introduction to Computer Science from Harvard University**
-- **Advanced Full-Stack Web Development Nanodegree** from **UDACITY**
-- **Front-End Web Development Professional Nanodegree** from **UDACITY**
-- **Responsive Web Design on FreeCodeCamp** 
+## 🎓 Educational Background
 
-These programs have equipped me with a robust set of skills, including:
+- **Harvard University** - CS50: Introduction to Computer Science
+- **UDACITY** - Advanced Full-Stack Web Development Nanodegree
+- **UDACITY** - Front-End Web Development Professional Nanodegree
+- **FreeCodeCamp** - Responsive Web Design Certification
 
-- **JavaScript**
-- **HTML/CSS**
-- **React**
-- **Nextjs**
-- **Node.js**
-- **PostgreSQL**
-- **TypeScript**
-- **C Programming**
-- **Algorithms and Data Structures**
-- **Web APIs**
-- **Python**
-- **Flask**
-- **SQLite**
+## 💻 Technical Expertise
 
-I am focusing on the **Nextjs** to enhance my full-stack development capabilities further.
+### Frontend Development
 
-Throughout my journey, I have successfully developed several interesting projects, all available on my [GitHub profile](https://github.com/ahmad-elshowair).
+- React.js
+- Next.js
+- TypeScript
+- HTML5/CSS3
+- Responsive Design
 
-In my previous role, I actively contributed to the marketing team, where I played a key role in redesigning and redeveloping the organization’s website. This experience honed my skills in communication, teamwork, and web development.
+### Backend Development
+
+- Node.js
+- Python/Flask
+- RESTful APIs
+- PostgreSQL
+- SQLite
+
+### Tools & Practices
+
+- Git/GitHub
+- Algorithms & Data Structures
+- Web Performance Optimization
+- Modern Development Workflows
+
+## 🚀 Professional Experience
+
+- Actively contributed to marketing team projects
+- Implemented modern web development practices
+- Collaborated effectively in cross-functional teams
+
+## 🌟 Key Projects
+
+All my projects are available on my [GitHub profile](https://github.com/ahmad-elshowair), showcasing my expertise in:
+
+- Full-stack web applications
+- Responsive design implementations
+- API integrations
+
+## 🔍 Current Focus
+
+Currently enhancing my expertise in Next.js and full-stack development, with a particular emphasis on:
+
+- Server-side rendering optimization
+- API route handling
+- Database integration
+- Modern UI/UX practices
+
+---
+
+💡 Open to collaboration and new opportunities in web development!
+
 
 
 
