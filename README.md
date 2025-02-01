@@ -1,6 +1,8 @@
 # Ahmad Elshowair - Full-Stack Developer
 
-  👋 Hi there, I'm a passionate Full-Stack Developer with a strong computer science and web development foundation. My journey is marked by continuous learning and practical application of cutting-edge technologies.
+  👋 Hi there, I'm a passionate Full-Stack Developer with a strong computer science
+   and web development foundation. My journey is marked by continuous learning and
+   the practical application of cutting-edge technologies.
 
 ## 🎓 Educational Background
 
@@ -46,8 +48,6 @@
   </tr>
 </table>
 
----
-
 ## 🛠️ Tools & Practices
 
 - Git/GitHub
@@ -55,16 +55,12 @@
 - Web Performance Optimization
 - Modern Development Workflows
 
----
-
 ## 🚀 Professional Experience
 
 - Actively contributed to marketing team projects
 - Implemented modern web development practices
 - Collaborated effectively in cross-functional teams
 - Developed and maintained web applications
-
----
 
 ## 🌟 Key Projects
 
@@ -75,8 +71,6 @@ All my projects are available on my [GitHub profile](https://github.com/ahmad-el
 - API integrations
 - Modern UI/UX practices
 
----
-
 ## 🔍 Current Focus
 
 Currently enhancing my expertise in Next.js and full-stack development, with a particular emphasis on:
@@ -85,8 +79,6 @@ Currently enhancing my expertise in Next.js and full-stack development, with a p
 - API route handling
 - Database integration
 - Modern UI/UX practices
-
----
 
 ## ☎️ Let's Connect
 
