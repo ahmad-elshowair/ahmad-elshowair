@@ -29,45 +29,56 @@ I am a passionate **Full-Stack Developer** with a solid foundation in computer s
 
 <table>
   <tr>
-    <th width="50%" align="center">
-      <h3>🎨 Frontend & Client-Side Tools</h3>
+    <th width="33%" align="center">
+      <h3>🎨 Frontend</h3>
     </th>
-    <th width="50%" align="center">
-      <h3>⚙️ Backend, DevOps & Server-Side Tools</h3>
+    <th width="33%" align="center">
+      <h3>⚙️ Backend & Data</h3>
+    </th>
+    <th width="33%" align="center">
+      <h3>🛠️ Tools, DevOps & Testing</h3>
     </th>
   </tr>
   <tr>
-    <!-- FRONTEND COLUMN -->
-    <td valign="top" width="50%">
+    <!-- FRONTEND -->
+    <td valign="top" width="33%">
       <div align="center">
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" height="50" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="48" />
       </div>
     </td>
-    <!-- BACKEND & TOOLS COLUMN -->
-    <td valign="top" width="50%">
+    <!-- BACKEND -->
+    <td valign="top" width="33%">
       <div align="center">
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" height="50" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="48" />
+      </div>
+    </td>
+    <!-- TOOLS & TESTING -->
+    <td valign="top" width="33%">
+      <div align="center">
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" height="48" />
       </div>
     </td>
   </tr>
 </table>
+
+
 ### 🌟 Featured Projects
 
 | Project                                     | Tech Stack                        | Highlights                                                                                      | Links                                                          |
