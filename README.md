@@ -48,6 +48,7 @@ I am a passionate **Full-Stack Developer** with a solid foundation in computer s
         <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="48" />
         <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="48" />
         <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="48" />
+        <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" height="48" />
         <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="48" />
         <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="48" />
         <img style="margin: 8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="48" />
@@ -103,8 +104,8 @@ I am a passionate **Full-Stack Developer** with a solid foundation in computer s
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-elshowair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-elshowair&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-elshowair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues,contribs" height="130" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-elshowair&layout=compact&theme=tokyonight&hide_border=true" height="130" alt="Top Languages" />
 </div>
 
 <p align="center">
